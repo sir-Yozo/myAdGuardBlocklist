@@ -1,0 +1,12 @@
+||instagram.com^
+||cdninstagram.com^
+||instagr.am^
+||ig.me^
+||facebook.com^
+||facebook.net^
+||fb.com^
+||fb.me^
+||fb.gg^
+||messenger.com^
+||fbsbx.com^
+||fbcdn.net^
